@@ -13,7 +13,7 @@ portfolio-website
 │   │   └── styles.css
 │   ├── js
 │   │   └── scripts.js
-│   └── fonts
+│   └── image.png
 ├── index.html
 └── README.md
 ```
@@ -21,7 +21,7 @@ portfolio-website
 - **index.html**: The main HTML file containing the structure of the portfolio website, including sections for About Me, Projects, Skills, and Contact.
 - **assets/css/styles.css**: Contains the styles for the website, defining layout, colors, fonts, and responsive design.
 - **assets/js/scripts.js**: Intended for JavaScript functionality, such as form validation and interactive elements.
-- **assets/fonts**: Directory for custom fonts used in the website.
+- **assets/image.png**: Personal profile picture.
 
 ## Setup Instructions
 1. Clone the repository to your local machine:
